@@ -17,9 +17,9 @@ collections:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fac9ec2-22fb-4ad9-a4bd-51dbf043c41c.png
 color:
-  saturation: 0.6729286
+  saturation: 0.7363051
   brandStrength: 0.255102
-  lightness: 0.3625134
+  lightness: 0.2991407
   brandColors:
     - '#010101'
     - '#54BF67'
