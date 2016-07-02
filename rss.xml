@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Change your water, Change your life]]></title>
+        <description><![CDATA[Change your water, Change your life]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jul 2016 17:30:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to FKT!]]></title>
+            <description><![CDATA[<article><h1>Welcome to FKT!</h1><p>Funtastic Kangenpreneurs Team</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1503263f-5fe4-48f5-b9cc-0436ee0beab3.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1503263f-5fe4-48f5-b9cc-0436ee0beab3.jpg</link>
+            <guid isPermaLink="false">3db5b886-478a-4e8f-a3ff-8f9be1035f48</guid>
+            <pubDate>Sat, 02 Jul 2016 17:30:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
