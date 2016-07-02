@@ -1,20 +1,32 @@
-typography_spectrum: 0.9889809389133006
+author:
+  name: Makka Kesuma
+  email: makka.kesuma@gmail.com
+title: 'Change your water, Change your life'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fac9ec2-22fb-4ad9-a4bd-51dbf043c41c.png
 color:
-  brandStrength: 0.3604831083212048
-  lightness: 0.6116904956288636
   saturation: 0.6729286049958318
-  rhythmicContrast: 0.05752579681575298
+  brandStrength: 0.490333
+  lightness: 0.6116904956288636
   brandColors:
     - '#1A1F2B'
     - '#30395C'
     - '#4A6491'
     - '#85A5CC'
     - '#D0E4F2'
-layout_spectrum: 0.9789748268667608
-author:
-  name: Makka Kesuma
-  email: makka.kesuma@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fac9ec2-22fb-4ad9-a4bd-51dbf043c41c.png
+  rhythmicContrast: 0.05752579681575298
+typography_spectrum: 0
+layout_spectrum: 0.8329753
 name: Makka Kangen Water
-title: 'Change your water, Change your life'
