@@ -1,14 +1,20 @@
-layout_spectrum: 0.562748366035521
-typography_spectrum: 0.5417395099066198
+typography_spectrum: 0.9889809389133006
 color:
-  brandStrength: 0.5969968556892127
-  lightness: 0.7861245591193438
-  saturation: 0.8637260363902897
-  rhythmicContrast: 0.15557702910155058
+  brandStrength: 0.3604831083212048
+  lightness: 0.6116904956288636
+  saturation: 0.6729286049958318
+  rhythmicContrast: 0.05752579681575298
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-name: Kangen Water
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+layout_spectrum: 0.9789748268667608
+author:
+  name: Makka Kesuma
+  email: makka.kesuma@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fac9ec2-22fb-4ad9-a4bd-51dbf043c41c.png
+name: Makka Kangen Water
+title: 'Change your water, Change your life'
