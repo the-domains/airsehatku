@@ -8,25 +8,25 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fac9ec2-22fb-4ad9-a4bd-51dbf043c41c.png
 color:
   saturation: 0.7363051
-  brandStrength: 0.255102
+  brandStrength: 0.5107411
   lightness: 0.2991407
   brandColors:
-    - '#010101'
-    - '#54BF67'
-    - '#889BAC'
     - '#FFFFFF'
-    - '#2A9CD4'
+    - '#C7C7DA'
+    - '#262878'
+    - '#117CC0'
+    - '#6163A9'
   rhythmicContrast: 0.04564984
 typography_spectrum: 0
-layout_spectrum: 0.6707841
+layout_spectrum: 0.6611171
 name: Makka Kangen Water
